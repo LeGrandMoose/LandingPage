@@ -79,12 +79,34 @@ a {
 .container2 {
     display: flex;
     flex-direction: column;
-    padding:50px 250px ;
+    padding:50px 300px ;
     text-align: center;
+    row-gap: 50px;
 }
 
 .header2 {
     font-size: 36px;
     font-weight: 900;
     color: #1f2937;
+    
+}
+
+.c2-body {
+    display:flex;
+    gap:20px;
+    justify-content: center;
+}
+
+img {
+    width:100px;
+    height: 100px;
+}
+
+.text{
+    padding: 20px;
+}
+
+.cards{
+    max-width: 200px;
+    
 }
