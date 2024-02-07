@@ -110,3 +110,20 @@ img {
     max-width: 200px;
     
 }
+
+
+/* do not edit this footer */
+.footer {
+    
+    bottom: 0;
+    left: 0;
+    right: 0;
+    height: 52px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: #eee;
+  }
+.footerlink {
+    color:black;
+}
